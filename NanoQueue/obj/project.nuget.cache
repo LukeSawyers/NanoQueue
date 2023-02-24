@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lz6xKcuxLEFbnP7q0BnQfzWR1mw6SndqRwDIixe+Gii1N/kGtcHRFOMZzVhJkGdloDdF8Iai+obPuTTN6aL4aA==",
+  "success": true,
+  "projectFilePath": "/home/luke/repos/personal/NanoQueue/NanoQueue/NanoQueue.csproj",
+  "expectedPackageFiles": [
+    "/home/luke/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
